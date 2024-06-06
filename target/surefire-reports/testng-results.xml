@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-04T22:16:02 IST" name="Suite" finished-at="2024-06-04T22:16:13 IST" duration-ms="11108">
+    <groups>
+    </groups>
+    <test started-at="2024-06-04T22:16:02 IST" name="Test" finished-at="2024-06-04T22:16:13 IST" duration-ms="11108">
+      <class name="com.spotify.tests.CreateAndGetPlaylistAPI_ReusuableMethods">
+        <test-method signature="createPlayListMethod()[pri:1, instance:com.spotify.tests.CreateAndGetPlaylistAPI_ReusuableMethods@5432050b]" started-at="2024-06-04T22:16:02 IST" name="createPlayListMethod" finished-at="2024-06-04T22:16:11 IST" duration-ms="9360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPlayListMethod -->
+        <test-method signature="getPlayListMethod()[pri:2, instance:com.spotify.tests.CreateAndGetPlaylistAPI_ReusuableMethods@5432050b]" started-at="2024-06-04T22:16:11 IST" name="getPlayListMethod" finished-at="2024-06-04T22:16:12 IST" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPlayListMethod -->
+        <test-method signature="updatePlayList()[pri:3, instance:com.spotify.tests.CreateAndGetPlaylistAPI_ReusuableMethods@5432050b]" started-at="2024-06-04T22:16:12 IST" name="updatePlayList" finished-at="2024-06-04T22:16:13 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePlayList -->
+        <test-method signature="shouldNotCreatePlaylist()[pri:4, instance:com.spotify.tests.CreateAndGetPlaylistAPI_ReusuableMethods@5432050b]" started-at="2024-06-04T22:16:13 IST" name="shouldNotCreatePlaylist" finished-at="2024-06-04T22:16:13 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldNotCreatePlaylist -->
+      </class> <!-- com.spotify.tests.CreateAndGetPlaylistAPI_ReusuableMethods -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
